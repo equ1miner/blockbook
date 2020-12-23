@@ -221,7 +221,7 @@
                 "EstimateSmartFee", "EstimateFee", "GetBestBlockHash", "GetBestBlockHeight"],
         "sync": ["ConnectBlocksParallel", "ConnectBlocks"]
     },
-    "zcash": {
+    "zero": {
         "rpc": ["GetBlock", "GetBlockHash", "GetTransaction", "GetTransactionForMempool", "MempoolSync",
                 "EstimateSmartFee", "EstimateFee", "GetBestBlockHash", "GetBestBlockHeight", "GetBlockHeader"],
         "sync": ["ConnectBlocksParallel", "ConnectBlocks", "HandleFork"]
